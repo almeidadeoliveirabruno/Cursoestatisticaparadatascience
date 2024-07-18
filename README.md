@@ -67,3 +67,7 @@ Realize o teste de hipótese para verificar se as distribuições são ou não s
 
 Exercício 13:
 Nas aulas anteriores nós fizemos os testes de hipóteses utilizando técnicas de estatística não paramétrica. Porém, como os resultados dos algoritmos seguem uma distribuição normal (conforme os testes de normalidade realizados), o objetivo desta tarefa é aplicar o ANOVA e também o teste de Tukey para comparar os resultados dos algoritmo.
+
+
+Exercício 14:
+Agora que você aprendeu o básico sobre correlação, é hora de aplicar esse conhecimento em uma base de dados real! Carregue a base de dados das casas (house-prices.csv) e gere as correlações entre todos os atributos. Quais atributos estão mais relacionados com o preço das casas?
